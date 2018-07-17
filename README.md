@@ -1,5 +1,5 @@
 # fraud_detection_using_som
-unsupervised approach to detect whether a candidate is fraud or not while applying for credit card usin self organise map
+unsupervised approach of deep learning to detect whether a candidate is fraud or not while applying for credit card using self organising map methodology to train the machine learning model.
 
 How to set up environment-
 
